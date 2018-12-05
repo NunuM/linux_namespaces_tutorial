@@ -1,6 +1,6 @@
 ## Linux Namespaces
 
-The subject of this sprint is about Linux namespaces, with the objective of understanding and using them in order to implement basic containers. Containers introduces a lightweight kind of virtualization,
+The subject of this tutorial is about Linux namespaces, with the objective of understanding and using them in order to implement basic containers. Containers introduces a lightweight kind of virtualization,
 all software that runs inside it, thinks that is running in physically host. Linux since kernel 2.6.23 offers tools to achieve this behaviour, namely Linux namespaces. Today we can use 6 namespaces:
 
 
